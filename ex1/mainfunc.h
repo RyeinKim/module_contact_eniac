@@ -2,3 +2,5 @@
 
 void filesave(C_DATA *data);
 void fileload();
+void inputinfo();
+void filesearch();

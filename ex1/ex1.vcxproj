@@ -139,13 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="input.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="mainfunc.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="db.c" />
-    <ClCompile Include="input.c" />
     <ClCompile Include="main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
