@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-
+//20192729 ±è¹üÁø
 void main() {
 	int num;
 	char name[20];
