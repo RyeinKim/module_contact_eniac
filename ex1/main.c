@@ -7,7 +7,7 @@ int main()
 		int menu;
 		printf("1. Add contact  2. View Contact  3. Search  4. Quit\n");
 		scanf("%d", &menu);
-		if (menu == 4) { break; }
+		if (menu == 5) { break; }
 		switch (menu)
 		{
 			case 1:
@@ -25,6 +25,10 @@ int main()
 				printf("이름 입력 : ");
 				filesearch();
 				break;
+			}
+			case 4:
+			{
+				filemodify();
 			}
 		}
 	}		

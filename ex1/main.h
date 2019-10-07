@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #define _CRT_SECURE_NO_WARNINGS
 #ifndef CONTACT_DATA
 #define CONTACT_DATA
