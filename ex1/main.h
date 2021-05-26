@@ -11,4 +11,10 @@ typedef struct _CONTACT_DATA {
 	int menu;
 } C_DATA;
 
+void filesave(C_DATA *data);
+void fileload();
+void inputinfo();
+void filesearch();
+void filemodify();
+
 #endif

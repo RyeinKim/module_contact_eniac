@@ -1,4 +1,4 @@
-#include "mainfunc.h"
+#include "main.h"
 
 int main() 
 {
@@ -22,7 +22,7 @@ int main()
 			}
 			case 3:
 			{
-				printf("ÀÌ¸§ ÀÔ·Â : ");
+				printf("ì´ë¦„ : ");
 				filesearch();
 				break;
 			}
